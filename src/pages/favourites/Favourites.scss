@@ -1,0 +1,15 @@
+.nothing-to-show{
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.favourites{
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    margin-inline: 8rem;
+    display: flex;
+    flex-wrap: wrap;
+    // border: 1px solid black;
+    gap: 2rem;
+}

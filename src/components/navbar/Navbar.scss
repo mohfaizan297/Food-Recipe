@@ -1,0 +1,38 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    margin: 3rem 0;
+    h2>.nav-link{
+        text-decoration: none;
+        color: black;
+    }
+    form>.search-input{
+        padding: 0.7rem 3rem 0.7rem 1.3rem;
+        outline: none;
+        border-radius: 8px;
+        border: none;
+        box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    }
+    form>.submit-btn{
+        padding: 0.7rem 1rem;
+        outline: none;
+        border-radius: 8px;
+        border: none;
+        cursor: pointer;
+        margin-left: 1rem;
+        font-weight: 600;
+    }
+    ul{
+        display: flex;
+        gap: 2rem;
+        li{
+            list-style: none;
+            .nav-link{
+                text-decoration: none;
+                color: black;
+                font-weight: 600;
+            }
+        }
+    }
+   
+}
