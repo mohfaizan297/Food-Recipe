@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Food-Recipe/static/css/main.f957d697.css",
+    "main.js": "/Food-Recipe/static/js/main.d6e63656.js",
+    "index.html": "/Food-Recipe/index.html",
+    "main.f957d697.css.map": "/Food-Recipe/static/css/main.f957d697.css.map",
+    "main.d6e63656.js.map": "/Food-Recipe/static/js/main.d6e63656.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f957d697.css",
+    "static/js/main.d6e63656.js"
+  ]
+}
